@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋, I am Kartik</h1>
 <h3 align="center">Strong interest in Programming and Technology</h3>
 
-- 💬 Ask me about **JavaScript, Java, Python**
+- 💬 Ask me about **Anything in My knowlege I will help you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
