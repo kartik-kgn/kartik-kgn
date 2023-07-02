@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanthe01guy&label=Profile%20views&color=0e75b6&style=flat" alt="chayanthe01guy" /> </p>
 
-😊I am currently Student and Daily learning and gaining my knowledge📑.
+😊Currently, I am a student. I am learning and Gaining Knowledge Daily.📑.
 
 
 
