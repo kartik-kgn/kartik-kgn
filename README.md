@@ -1,7 +1,7 @@
 <h1 align="center">Hi🙋‍♂️, I am Kartik</h1>
 <h3 align="center">Strong interest in Programming and Technology</h3>
 
-<img align="right"alt="code"width="400"src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right"alt="code"width="400"src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9526lq5yj6udxs8rba9wsgso2efz60dksmfxhinjnqo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 - 💬 Ask me about **JavaScript, Java, Python**
 
