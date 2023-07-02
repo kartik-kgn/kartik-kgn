@@ -1,20 +1,14 @@
 ![logo](https://github.com/ChayanThe01Guy/ChayanThe01Guy/blob/main/Img.png?raw=true);
-<h1 align="center">Hello 👋, I'm Chayan Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hii 🙋‍♂️, I am Kartik</h1>
+<h3 align="center">A Passionate Programmer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanthe01guy&label=Profile%20views&color=0e75b6&style=flat" alt="chayanthe01guy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chayanthe01guy" target="blank"><img src="https://img.shields.io/twitter/follow/chayanthe01guy?logo=twitter&style=for-the-badge" alt="chayanthe01guy" /></a> </p>
+- 🌱 I am currently Student and Daily learning and gaining my knowledge.
 
-- 🌱 I’m currently learning **...React Native**
+- 🤝 I am looking for help with **website architechture**
 
-- 🤝 I’m looking for help with **...website architechture**
-
-- 💬 Ask me about anything **...if in my knowledge i'll help you.**
-
-- 📫 How to reach me **chayanthe01guy@gmail.com**
-
-- ⚡ Fun fact **... I'm not finished yet**
+- 💬 Ask me about anything **if in my knowledge i help you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
